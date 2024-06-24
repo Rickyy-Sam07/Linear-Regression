@@ -13,9 +13,10 @@ The dataset used for this project is `data.csv`, which contains various features
 
 ## Project Structure
 
-- `sklearn_linear_regression.py`: Linear regression implementation using Scikit-learn.
-- `manual_linear_regression.py`: Linear regression implementation without using Scikit-learn.
-- `data.csv`: Dataset containing car features and prices.
+- `sklearn_linear_regression.py`: Linear regression implementation using Scikit-learn. you will find the file in the using sklearn folder
+- `manual_linear_regression.py`: Linear regression implementation without using Scikit-learn. you will find the file in the  not using sklearn folder
+- `cars.csv`: Dataset containing car features and prices.
+- `data.csv`: random Dataset 
 - `README.md`: This file, providing an overview of the project.
 
 ## Requirements
