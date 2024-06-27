@@ -18,6 +18,7 @@ The dataset used for this project is `data.csv`, which contains various features
 - `cars.csv`: Dataset containing car features and prices.
 - `data.csv`: random Dataset 
 - `README.md`: This file, providing an overview of the project.
+- `score.py` : This file calculates the efficiency of Linear regression algorithm
 
 ## Requirements
 
